@@ -16,15 +16,15 @@
 
 # 矿大中国矿业大学数据库
 
-矿大指定的这本教材我几乎是照着完整的打了一边，也添加了部分的个人理解，由于[幕布](https://mubu.com/)这软件能生成思维导图简单，我都在这上面进行总结的，现汇总如下：
+矿大指定的这本教材我几乎是照着完整的打了一边，也添加了部分的个人理解，由于[幕布](https://mubu.com/)这软件能生成思维导图简单，我都在这上面进行总结的，我将其导出成html形式，现汇总如下。：
 
-* [矿大中国矿业大学数据库考研笔记-数据库基本概念](https://mubu.com/doc/1fG61teSeE)
-* [矿大中国矿业大学数据库考研笔记-关系数据库](https://mubu.com/doc/2mMAkYzVPE)
-* [矿大中国矿业大学数据库考研笔记-关系数据库标准语言](https://mubu.com/doc/3isqXBU6wE)
-* [矿大中国矿业大学数据库考研笔记-关系规范化理论](https://mubu.com/doc/3TUWGppU9E)
-* [矿大中国矿业大学数据库考研笔记-数据库设计](https://mubu.com/doc/2LGtgcSEOE)
-* [矿大中国矿业大学数据库考研笔记-数据库保护](https://mubu.com/doc/1S2rDroQOE)
-
+- [矿大中国矿业大学数据库考研笔记-数据库基本概念](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-1.数据库基本概念.html)
+- [矿大中国矿业大学数据库考研笔记-关系数据库](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-2.关系数据库.html)
+- [矿大中国矿业大学数据库考研笔记-关系数据库标准语言](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-3.关系数据库标准语言.html)
+- [矿大中国矿业大学数据库考研笔记-关系规范化理论](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-4.关系规范化理论.html)
+- [矿大中国矿业大学数据库考研笔记-数据库设计](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-5.数据库设计.html)
+- [矿大中国矿业大学数据库考研笔记-数据库保护](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/矿大数据库考研笔记-6.数据库保护.html)
+- [位于幕布上的链接汇总](https://mindayao.github.io/NEEP/CUMT_DB-NEEP/mubu_nav.md)
 
 
 ## 视频教程推荐
